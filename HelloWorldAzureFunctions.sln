@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldAzureFunctions", "HelloWorldAzureFunctions\HelloWorldAzureFunctions.csproj", "{99D24B65-9991-4994-81A2-AE3C878E527A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHelloWorldAzureFunction", "TestHelloWorldAzureFunction\TestHelloWorldAzureFunction.csproj", "{D2B1FB50-3F29-40B1-B68A-C94246C5C8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D24B65-9991-4994-81A2-AE3C878E527A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D24B65-9991-4994-81A2-AE3C878E527A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D24B65-9991-4994-81A2-AE3C878E527A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D24B65-9991-4994-81A2-AE3C878E527A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B1FB50-3F29-40B1-B68A-C94246C5C8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B1FB50-3F29-40B1-B68A-C94246C5C8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B1FB50-3F29-40B1-B68A-C94246C5C8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B1FB50-3F29-40B1-B68A-C94246C5C8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7615B5-5A0D-44B3-B9E6-194F265726A6}
+	EndGlobalSection
+EndGlobal
