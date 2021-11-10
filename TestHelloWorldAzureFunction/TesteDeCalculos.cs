@@ -3,7 +3,7 @@ using Xunit;
 
 namespace TestHelloWorldAzureFunction
 {
-    public class UnitTest1
+    public class TesteDeCalculos
     {
         [Fact]
         public void TestandoSoma()
